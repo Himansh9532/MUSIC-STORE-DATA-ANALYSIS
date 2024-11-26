@@ -120,7 +120,7 @@ Contributions are welcome! To contribute:
 ## 📞 **Contact**
 
 Feel free to reach out for queries or suggestions:  
-📧 **Email**: [2022blaiml03@axiscoleges.in](mailto:2022blaiml03@axiscoleges.in)  
+📧 **Email**: [himanshugupta95326@gmail.com](mailto:himanshugupta95326@gmail.com)  
 👤 **Author**: Himanshu Gupta  
 
 ---
