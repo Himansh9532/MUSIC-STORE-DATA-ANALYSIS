@@ -9,7 +9,9 @@ A comprehensive SQL-based project to analyze a music store database, uncover key
 
 The **Music Store Analysis** project focuses on analyzing a relational database of a fictional music store. By executing SQL queries, we extract actionable insights about customers, employees, invoices, and the store's music catalog. This analysis is aimed at improving business strategies, such as identifying top-performing customers, cities, and genres.
 
-## 📖 **SCHEMA**
+## **SCHEMA**
+![image alt](MusicDatabaseSchema.png)
+
 ---
 
 ## 🗂️ **Project Files**
