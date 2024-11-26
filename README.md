@@ -129,4 +129,3 @@ Feel free to reach out for queries or suggestions:
 
 ---
 
-This `README.md` provides a clear structure and detailed information about the project. Let me know if you'd like to refine it further or add specific sections!
